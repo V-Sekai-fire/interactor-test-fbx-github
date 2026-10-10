@@ -8,4 +8,4 @@ The reference OBJ carries ufbx matching hints, and the JSON file beside it recor
 
 ## Licence
 
-The model is CC BY 4.0, by the author its metadata names. The repository states no other licence.
+CC BY 4.0. See [LICENSE](LICENSE). The model is CC BY 4.0, by the author its metadata names.
